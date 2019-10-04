@@ -2,7 +2,7 @@ Installation
 ============
 ```bash
 yum -y install wget screen git
-git clone http://210.127.209.122:81/bbashop/lamp.git
+git clone https://github.com/ParkSangMyung/lamp.git
 cd lamp
 chmod 755 *.sh
 screen -S lamp
