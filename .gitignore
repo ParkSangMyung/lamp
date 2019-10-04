@@ -1,0 +1,5 @@
+#lamp.log
+#software/
+*.zip
+lamp-data/WebWas01.pem
+lamp-data/WebWas01.ppk
