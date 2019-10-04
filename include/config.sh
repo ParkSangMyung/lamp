@@ -59,8 +59,8 @@ serverinfo()
 os_info
 echo
 echo -e "${BLUEB}+-------------------------------------------------------------------------------------+"
-echo "| Auto Install LAMP(Linux + Apache + PHP )                                            |"
-echo "| Website: http://210.127.209.122:81/bbashop/lamp                                     |"
+echo "| Auto Install LAMP(Linux + Apache + MySQL + PHP )                                            |"
+echo "| Website: https://github.com/ParkSangMyung/lamp                                    |"
 echo "| Author : PSM <parksang1603@naver.com>                                               |"
 echo -e "+-------------------------------------------------------------------------------------+${PLAIN}"
 echo
