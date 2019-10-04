@@ -39,7 +39,7 @@ Default Installation Location
 | Apache Location            | Path                          | Symbolic Link                     |
 |----------------------------|-----------------------------  |-----------------------------------|
 | Install Prefix             | /etc/httpd/                   |                                   |
-| Web root location          | /home/bbashop/www             |                                   |
+| Web root location          | /home/shop/www                |                                   |
 | Main Configuration File    | /etc/httpd/conf/httpd.conf    | /usr/local/apache/conf/httpd.conf |
 
 | PHP Location               | Path                          | Symbolic Link                     |
