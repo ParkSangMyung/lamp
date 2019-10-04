@@ -32,5 +32,5 @@ mkdir /usr/local/php/
 ln -s /etc/php.ini /usr/local/php/php.ini
 
 # Change web root authority
-chmod -R 755 /home/bbashop
-chmod -R 755 /home/bbashop/www
+chmod -R 755 /home/shop
+chmod -R 755 /home/shop/www
