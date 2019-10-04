@@ -44,8 +44,8 @@ sed -i "13a\alias home='cd /home/bbashop/www; ls -al'" ~/.bashrc
 yum install -y httpd
 
 # add user, authorization
-#useradd bbashop
-#echo 'free0428**zx' | passwd --stdin bbashop
+#useradd user01
+#echo 'user1234' | passwd --stdin user01
 
 # make directory web root
 mkdir -p ${web_root_dir}
@@ -84,5 +84,5 @@ service httpd start
 
 # 모든 폴더 제한 해제
 # service httpd stop
-# chcon -R -t unconfined_exec_t /home/bbshop/www/*
+# chcon -R -t unconfined_exec_t /home/shop/www/*
 # service httpd start
