@@ -6,7 +6,7 @@ git config --global user.name "PSM"
 git config --global user.email "parksang1603@naver.com"
 
 git init
-git remote add origin http://210.127.209.122:81/bbashop/bbashopSource.git
+git remote add origin https://github.com/ParkSangMyung/lamp/source.git
 git remote update
 git fetch
 #git branch --set-upstream-to=origin/master master
