@@ -7,7 +7,7 @@ load_config
 yum remove -y net-tools bind-utils gcc kernel-devel make bzip2 vim vsftpd ipvsadm
 yum remove -y httpd
 rm -rf /etc/httpd/conf
-rm -rf /home/bbashop/www
+rm -rf /home/shop/www
 
 #php 삭제
 rpm -e epel-release-latest-7.noarch
